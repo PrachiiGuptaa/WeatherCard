@@ -1,0 +1,25 @@
+.cardContainer{
+    display: flex;
+    padding: 2rem;
+    flex-direction: column;
+    color: #fff;
+    width:15rem;
+    height: max-content;
+    background-color: rgba(0, 0, 0, 0.7); 
+  backdrop-filter: blur(2px);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(56, 56, 56, 0.2);
+    border-radius: 10px;
+   
+}
+.cardContainer1 h2{
+    margin: 0;  
+}
+.cardContainer1 p{
+    margin: 0;
+}
+.detailsIcon h1{
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+}
